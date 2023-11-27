@@ -6,7 +6,7 @@
 I have been working in the programming world for **+5 years**. Currently I work as a **Functional Analyst** and I am a **Full Stack Web Developer**. During my career in systems I have been fond of programming so I decided to expand my knowledge as a developer. **Through my experience in Data Analysis, I have acquired skills in programming, planning and complex problem solving.**
 If you are interested in knowing more about me you are in the right place.
 
-<img align='right' style='position: relative; margin-top: -50px' src="./assets/mati_avatar.png" width="230">
+<img align='right' style='position: relative; margin-top: -60px' src="./assets/mati_avatar.png" width="230">
 
 ## You can find in me in the web 🌍
 
@@ -18,7 +18,7 @@ If you are interested in knowing more about me you are in the right place.
 
 ## Technical Skills
 
-<div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin: 2rem">
+<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin: 2rem">
     <img src="./assets/logos/html.svg" style="height: 5rem;" title="HTML5" alt="HTML5" />
     <img src="./assets/logos/css.svg" style="height: 5rem;" title="CSS3" alt="CSS3" />
     <img src="./assets/logos/javascript.svg" style="height: 5rem; border-radius: .5rem;" title="JavaScript" alt="JavaScript" />
@@ -46,14 +46,4 @@ If you are interested in knowing more about me you are in the right place.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lombardimn&hide_progress=false&bg_color=32deg,f2cda0,6ad9b9&text_color=041422&title_color=041422&text_bold=true)
 
-<div style="height: 120px; border-radius: .5rem; background: linear-gradient(135deg, #f2cda0 32%, #6ad9b9); display: flex; align-items: center; justify-content: space-between">
-  <div style="display: flex; flex-direction: column; align-items: start; margin-top: 1rem">
-    <p style="color: #041422; font-size: 1.5rem; font-weight: bold; margin-left: 2rem">
-      Made with ❤️ by
-    </p>
-    <p style="color: #041422; font-size: 1.5rem; font-weight: bold; font-style: italic; margin-left: 2rem">
-      &copy;LombardiDev
-    </p>
-  </div>
-  <img style='margin: 16px;' src="./assets/logomain.webp" width="120">
-</div>
+<img src="./assets/footer.png" alt="Footer" title="Footer" width="100%" height="100px"/>
