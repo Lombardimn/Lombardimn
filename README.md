@@ -6,7 +6,7 @@
 I have been working in the programming world for **+5 years**. Currently I work as a **Functional Analyst** and I am a **Full Stack Web Developer**. During my career in systems I have been fond of programming so I decided to expand my knowledge as a developer. **Through my experience in Data Analysis, I have acquired skills in programming, planning and complex problem solving.**
 If you are interested in knowing more about me you are in the right place.
 
-<img align='right' style='position: relative; margin-top: -40px' src="./assets/mati_avatar.png" width="230">
+<img align='right' style='position: relative; margin-top: -50px' src="./assets/mati_avatar.png" width="230">
 
 ## You can find in me in the web 🌍
 
@@ -33,7 +33,7 @@ If you are interested in knowing more about me you are in the right place.
 
 ### Learning / To Learn
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 2rem">
+<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin: 2rem">
     <img src="./assets/logos/express.svg" style="height: 5rem; border-radius: .5rem; background-color: white; padding: .2rem;" title="Express" alt="Express" />
     <img src="./assets/logos/node.svg" style="height: 5rem;" title="Nodejs" alt="Nodejs" />
     <img src="./assets/logos/sqlite.svg" style="height: 5rem;" title="SQLite" alt="SQLite" />
