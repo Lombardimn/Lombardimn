@@ -18,7 +18,7 @@ If you are interested in knowing more about me you are in the right place.
 
 ## Technical Skills
 
-<picture style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin: 2rem">
+<div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin: 2rem">
     <img src="./assets/logos/html.svg" style="height: 5rem;" title="HTML5" alt="HTML5" />
     <img src="./assets/logos/css.svg" style="height: 5rem;" title="CSS3" alt="CSS3" />
     <img src="./assets/logos/javascript.svg" style="height: 5rem; border-radius: .5rem;" title="JavaScript" alt="JavaScript" />
@@ -29,9 +29,10 @@ If you are interested in knowing more about me you are in the right place.
     <img src="./assets/logos/markdown.svg" style="height: 4rem; margin: .5rem;" title="MarkDown" alt="MarkDown" />
     <img src="./assets/logos/postman.svg" style="height: 5rem;" title="PostMan" alt="PostMan" />
     <img src="./assets/logos/java.svg" style="height: 5rem; background-color: white; border-radius: .5rem;" title="Java" alt="Java" />
-</picture>
+</div>
 
 ### Learning / To Learn
+
 <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 2rem">
     <img src="./assets/logos/express.svg" style="height: 5rem; border-radius: .5rem; background-color: white; padding: .2rem;" title="Express" alt="Express" />
     <img src="./assets/logos/node.svg" style="height: 5rem;" title="Nodejs" alt="Nodejs" />
@@ -54,7 +55,5 @@ If you are interested in knowing more about me you are in the right place.
       &copy;LombardiDev
     </p>
   </div>
-  <picture>
-    <img style='margin: 16px;' src="./assets/logomain.webp" width="120">
-  </picture>
+  <img style='margin: 16px;' src="./assets/logomain.webp" width="120">
 </div>
