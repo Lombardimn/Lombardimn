@@ -6,7 +6,7 @@
 I have been working in the programming world for **+5 years**. Currently I work as a **Functional Analyst** and I am a **Full Stack Web Developer**. During my career in systems I have been fond of programming so I decided to expand my knowledge as a developer. **Through my experience in Data Analysis, I have acquired skills in programming, planning and complex problem solving.**
 If you are interested in knowing more about me you are in the right place.
 
-<img align='right' style='position: relative; margin-top: -60px' src="./assets/mati_avatar.png" width="230">
+<img align='right' style='position: relative; margin-top: -70px' src="./assets/mati_avatar.png" width="230">
 
 ## You can find in me in the web 🌍
 
