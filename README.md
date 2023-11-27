@@ -20,27 +20,11 @@ If you are interested in knowing more about me you are in the right place.
 
 ## Technical Skills
 
-<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin: 2rem">
-    <img src="./assets/logos/html.svg" style="height: 5rem;" title="HTML5" alt="HTML5" />
-    <img src="./assets/logos/css.svg" style="height: 5rem;" title="CSS3" alt="CSS3" />
-    <img src="./assets/logos/javascript.svg" style="height: 5rem; border-radius: .5rem;" title="JavaScript" alt="JavaScript" />
-    <img src="./assets/logos/typescript.svg" style="height: 5rem;" title="TypeScript" alt="TypeScript" />
-    <img src="./assets/logos/react.svg" style="height: 5rem;" title="React" alt="React" />
-    <img src="./assets/logos/tailwind.svg" style="height: 5rem;" title="Tailwind CSS" alt="Tailwind CSS" />
-    <img src="./assets/logos/astro.svg" style="height: 5rem;" title="Astro" alt="Astro" />
-    <img src="./assets/logos/markdown.svg" style="height: 4rem; margin: .5rem;" title="MarkDown" alt="MarkDown" />
-    <img src="./assets/logos/postman.svg" style="height: 5rem;" title="PostMan" alt="PostMan" />
-    <img src="./assets/logos/java.svg" style="height: 5rem; background-color: white; border-radius: .5rem;" title="Java" alt="Java" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui,astro,vite,markdown,postman,java,hibernate,spring,mysql,babel,bash,figma,git,github,netlify&perline=12&theme=light)](https://skillicons.dev)
 
 ### Learning / To Learn
 
-<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin: 2rem">
-    <img src="./assets/logos/express.svg" style="height: 5rem; border-radius: .5rem; background-color: white; padding: .2rem;" title="Express" alt="Express" />
-    <img src="./assets/logos/node.svg" style="height: 5rem;" title="Nodejs" alt="Nodejs" />
-    <img src="./assets/logos/sqlite.svg" style="height: 5rem;" title="SQLite" alt="SQLite" />
-    <img src="./assets/logos/github_actions.png" style="height: 5rem;" title="GitHub Actions" alt="GitHub Actions" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,sqlite,svelte,githubactions,docker&perline=12&theme=light)](https://skillicons.dev)
 
 ## Tech & Tools Stats
 
