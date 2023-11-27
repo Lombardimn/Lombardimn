@@ -48,4 +48,4 @@ If you are interested in knowing more about me you are in the right place.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lombardimn&hide_progress=false&bg_color=32deg,f2cda0,6ad9b9&text_color=041422&title_color=041422&text_bold=true)
 
-<img src="./assets/footer.png" alt="Footer" title="Footer" width="100%" height="100px"/>
+<img src="./assets/footer.png" alt="Footer" title="Footer" width="100%" height="auto"/>
