@@ -8,6 +8,8 @@ If you are interested in knowing more about me you are in the right place.
 
 <img align='right' style='position: relative; margin-top: -70px' src="./assets/mati_avatar.png" width="230">
 
+<br>
+
 ## You can find in me in the web 🌍
 
 [![Personal site Badge](https://img.shields.io/badge/-lombardiDev-6AD9B9?style=social-square&labelColor=6AD9B9&logo=circuitverse&logoColor=black&link=https://linkedin.com/in/mnlombardi)](https://linkedin.com/in/mnlombardi)<br/>
