@@ -12,7 +12,7 @@ If you are interested in knowing more about me you are in the right place.
 
 ## You can find in me in the web 🌎
 
-[![Personal site Badge](https://img.shields.io/badge/-lombardiDev-6AD9B9?style=social-square&labelColor=6AD9B9&logo=circuitverse&logoColor=black&link=https://linkedin.com/in/mnlombardi)](https://linkedin.com/in/mnlombardi)<br/>
+[![Personal site Badge](https://img.shields.io/badge/-lombardiDev-6AD9B9?style=social-square&labelColor=6AD9B9&logo=circuitverse&logoColor=black&link=https://lombardidev.ar/)](https://lombardidev.ar/)<br/>
 [![Gmail Badge](https://img.shields.io/badge/lombardiDev-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:contactos@lombardidev.ar)](mailto:contactos@lombardidev.ar)<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-mnlombardi-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnlombardi/)](https://www.linkedin.com/in/mnlombardi/)<br/>
 [![Instagram Badge](https://img.shields.io/badge/-@lombardimn-e4405f?style=social-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://linkedin.com/in/mnlombardi)](https://linkedin.com/in/mnlombardi)
