@@ -3,12 +3,14 @@
 
 ## About 👨🏻‍💻
 
-
-I am a ```Functional Analyst``` with over 5 years of experience in web development and enterprise systems, certified as a ```Product Owner```. Throughout my career, I have led and managed tech projects for multinational companies and startups in accelerated growth stages, working on implementing solutions tailored to meet client needs. My approach combines technical skills as a ```Fullstack Developer``` with strategic capabilities, ```allowing me to deliver end-to-end solutions from planning to execution```. Additionally, I possess a flexible and entrepreneurial mindset, quickly adapting to different environments and teams.
+<div style='position: relative; display: flex; justify-content: between; align-items: center; gap: 20px;'>
+  <div style='max-width: 600px; text-wrap: balance;'> 
+    I am a <span style='background-color: rgba(106, 217, 185, 0.5); padding: 2px; border-radius: 5px; color: #041422; font-weight: bold'>Functional Analyst</span> with over 5 years of experience in web development and enterprise systems, certified as a <span style='background-color: rgba(106, 217, 185, 0.5); padding: 2px; border-radius: 5px; color: #041422; font-weight: bold'>Product Owner</span>. Throughout my career, I have led and managed tech projects for multinational companies and startups in accelerated growth stages, working on implementing solutions tailored to meet client needs. My approach combines technical skills as a <span style='background-color: rgba(106, 217, 185, 0.5); padding: 2px; border-radius: 5px; color: #041422; font-weight: bold'>Fullstack Developer</span> with strategic capabilities, <span style='background-color: rgba(106, 217, 185, 0.5); padding: 2px; border-radius: 5px; color: #041422; font-weight: bold'>allowing me to deliver end-to-end solutions from planning to execution</span>. Additionally, I possess a flexible and entrepreneurial mindset, quickly adapting to different environments and teams.
+  </div>
+  <img src="./assets/mati_avatar.png" width="230" height="230">
+</div>
 
 If you are interested in knowing more about me you are in the right place.
-
-<img align='right' style='position: relative; margin-top: -70px' src="./assets/mati_avatar.png" width="230">
 
 ## You can find in me in the web 🌎
 
