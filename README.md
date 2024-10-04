@@ -3,7 +3,9 @@
 
 ## About 👨🏻‍💻
 
-I have been working in the programming world for ```+5 years```. Currently I work as a  ```Functional Analyst``` and I am a  ```Full Stack Web Developer```. During my career in systems I have been fond of programming so I decided to expand my knowledge as a developer.  ```Through my experience in Data Analysis, I have acquired skills in programming, planning and complex problem solving```.
+
+I am a ```Functional Analyst``` with over 5 years of experience in web development and enterprise systems, certified as a ```Product Owner```. Throughout my career, I have led and managed tech projects for multinational companies and startups in accelerated growth stages, working on implementing solutions tailored to meet client needs. My approach combines technical skills as a ```Fullstack Developer``` with strategic capabilities, ```allowing me to deliver end-to-end solutions from planning to execution```. Additionally, I possess a flexible and entrepreneurial mindset, quickly adapting to different environments and teams.
+
 If you are interested in knowing more about me you are in the right place.
 
 <img align='right' style='position: relative; margin-top: -70px' src="./assets/mati_avatar.png" width="230">
@@ -12,19 +14,19 @@ If you are interested in knowing more about me you are in the right place.
 
 ## You can find in me in the web 🌎
 
-[![Personal site Badge](https://img.shields.io/badge/-lombardiDev-6AD9B9?style=social-square&labelColor=6AD9B9&logo=circuitverse&logoColor=black&link=https://lombardidev.ar/)](https://lombardidev.ar/)<br/>
+[![Personal site Badge](https://img.shields.io/badge/-lombardiDev-0ABF53?style=social-square&labelColor=0ABF53&logo=googlechrome&logoColor=white&link=https://lombardidev.ar/)](https://lombardidev.ar/)<br/>
 [![Gmail Badge](https://img.shields.io/badge/lombardiDev-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:contactos@lombardidev.ar)](mailto:contactos@lombardidev.ar)<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-mnlombardi-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnlombardi/)](https://www.linkedin.com/in/mnlombardi/)<br/>
-[![Instagram Badge](https://img.shields.io/badge/-@lombardimn-e4405f?style=social-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://linkedin.com/in/mnlombardi)](https://linkedin.com/in/mnlombardi)
+[![IDiscord Badge](https://img.shields.io/badge/-@lombardimn-333333?style=social-square&labelColor=333333&logo=discord&logoColor=#5865F2&link=https://linkedin.com/in/mnlombardi)](https://linkedin.com/in/mnlombardi)
 
 
 ## Technical Skills 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui,astro,vite,markdown,postman,java,hibernate,spring,mysql,babel,bash,figma,git,github,netlify&perline=12&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,materialui,astro,vite,markdown,postman,java,hibernate,spring,mysql,babel,bash,figma,git,github,netlify,express,nodejs,sqlite,php,postgresql&perline=12&theme=light)](https://skillicons.dev)
 
 ### Learning / To Learn 📚
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,sqlite,svelte,githubactions,docker&perline=12&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,graphql,svelte,githubactions,docker&perline=12&theme=light)](https://skillicons.dev)
 
 ## Tech & Tools Stats 📈
 
