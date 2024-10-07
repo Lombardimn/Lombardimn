@@ -5,9 +5,9 @@
 
 I am a ```Functional Analyst``` with over 5 years of experience in web development and enterprise systems, certified as a ```Product Owner```. Throughout my career, I have led and managed tech projects for multinational companies and startups in accelerated growth stages, working on implementing solutions tailored to meet client needs. My approach combines technical skills as a ```Fullstack Developer``` with strategic capabilities, ```allowing me to deliver end-to-end solutions from planning to execution```. Additionally, I possess a flexible and entrepreneurial mindset, quickly adapting to different environments and teams.
 
-<img src="./assets/mati_avatar.png" width="250" height="250" alt="Matias Lombardi" style='float: right;'>
+>If you are interested in knowing more about me you are in the right place.
 
-If you are interested in knowing more about me you are in the right place.
+<img src="./assets/mati_avatar.png" width="250" height="250" alt="Matias Lombardi" style='float: right;'>
 
 ## You can find in me in the web 🌎
 
