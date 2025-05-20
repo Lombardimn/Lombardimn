@@ -21,7 +21,7 @@ These days, I'm focused on `'Frontend development'` using tools like `'React'` a
 
 [![Personal site Badge](https://img.shields.io/badge/-lombardiDev-0ABF53?style=social-square&labelColor=0ABF53&logo=googlechrome&logoColor=white&link=https://lombardidev.vercel.app/)](https://lombardidev.vercel.app/)<br>
 [![Gmail Badge](https://img.shields.io/badge/lombardiDev-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:lombardidev.contact@gmail.com)](mailto:lombardidev.contact@gmail.com)<br>
-[![Linkedin Badge](https://img.shields.io/badge/-mnlombardi-blue?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnlombardi/)](https://www.linkedin.com/in/mnlombardi/)<br>
+[![Linkedin Badge](https://img.shields.io/badge/-mnlombardi-blue?style=social-square&logo=invision&logoColor=white&link=https://www.linkedin.com/in/mnlombardi/)](https://www.linkedin.com/in/mnlombardi/)<br>
 [![IDiscord Badge](https://img.shields.io/badge/-@lombardimn-333333?style=social-square&labelColor=333333&logo=discord&logoColor=#5865F2&link=https://linkedin.com/in/mnlombardi)](https://linkedin.com/in/mnlombardi)
 
 ## Technical Skills 🛠
