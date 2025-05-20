@@ -35,62 +35,26 @@ These days, I'm focused on `'Frontend development'` using tools like `'React'` a
 **Libraries & Frameworks**
 <br>
 <br>
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/react_dark.svg" width="40" height="40" alt="React" title="React" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/angular.svg" width="40" height="40" alt="Angular" title="Angular" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/svelte.svg" width="40" height="40" alt="Svelte" title="Svelte" />
-</span>&nbsp;&nbsp;
+<img src="https://svgl.app/library/react_dark.svg" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/angular.svg" width="40" height="40" alt="Angular" title="Angular" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/svelte.svg" width="40" height="40" alt="Svelte" title="Svelte" />&nbsp;&nbsp;
 
 **Bundlers**
 <br>
 <br>
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/vitejs.svg" width="40" height="40" alt="Vitejs" title="Vitejs" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/astro_dark.svg" width="40" height="40" alt="Astro" title="Astro" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="40" height="40" alt="NextJS" title="NextJS" />
-</span>&nbsp;&nbsp;
+<img src="https://svgl.app/library/vitejs.svg" width="40" height="40" alt="Vitejs" title="Vitejs" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/astro_dark.svg" width="40" height="40" alt="Astro" title="Astro" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/nextjs_icon_dark.svg" width="40" height="40" alt="NextJS" title="NextJS" />&nbsp;&nbsp;
 
 **Styling & UI**
 <br>
 <br>
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/css.svg" width="40" height="40" alt="CSS" title="CSS" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/tailwindcss.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/styledcomponents.svg" width="40" height="40" alt="StyledComponents" title="StyledComponents" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/sass.svg" width="40" height="40" alt="Sass" title="Sass" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/materialui.svg" width="40" height="40" alt="MaterialUI" title="MaterialUI" />
-</span>&nbsp;&nbsp;
+<img src="https://svgl.app/library/css.svg" width="40" height="40" alt="CSS" title="CSS" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/tailwindcss.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/styledcomponents.svg" width="40" height="40" alt="StyledComponents" title="StyledComponents" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/sass.svg" width="40" height="40" alt="Sass" title="Sass" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/materialui.svg" width="40" height="40" alt="MaterialUI" title="MaterialUI" />&nbsp;&nbsp;
 
 </td>
 <td valign="top" width="50%">
@@ -100,62 +64,26 @@ These days, I'm focused on `'Frontend development'` using tools like `'React'` a
 **Languages & Runtimes**
 <br>
 <br>
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/java.svg" width="40" height="40" alt="Java" title="Java" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/php_dark.svg" width="40" height="40" alt="PHP" title="PHP" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/python.svg" width="40" height="40" alt="Python" title="Python" />
-</span>&nbsp;&nbsp;
+<img src="https://svgl.app/library/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/java.svg" width="40" height="40" alt="Java" title="Java" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/php_dark.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/python.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
 
 **Frameworks**
 <br>
 <br>
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/expressjs_dark.svg" width="40" height="40" alt="ExpressJS" title="ExpressJS" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/nestjs.svg" width="40" height="40" alt="NestJS" title="NestJS" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/spring.svg" width="40" height="40" alt="Spring" title="Spring" />
-</span>&nbsp;&nbsp;
+<img src="https://svgl.app/library/expressjs_dark.svg" width="40" height="40" alt="ExpressJS" title="ExpressJS" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/nestjs.svg" width="40" height="40" alt="NestJS" title="NestJS" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/spring.svg" width="40" height="40" alt="Spring" title="Spring" />&nbsp;&nbsp;
 
 **Databases & ORMs**
 <br>
 <br>
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/prisma.svg" width="40" height="40" alt="Prisma" title="Prisma" />
-</span>&nbsp;&nbsp;
-<span style="background-color: #f5f5f510; padding: 6px; border-radius: 12px; display: inline-block; display: inline-flex;
- align-items: center; justify-content: center;">
-  <img src="https://svgl.app/library/sequelize.svg" width="40" height="40" alt="Sequelize" title="Sequelize" />
-</span>&nbsp;&nbsp;
+<img src="https://svgl.app/library/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/prisma.svg" width="40" height="40" alt="Prisma" title="Prisma" />&nbsp;&nbsp;
+<img src="https://svgl.app/library/sequelize.svg" width="40" height="40" alt="Sequelize" title="Sequelize" />&nbsp;&nbsp;
 
 </td>
 </tr>
