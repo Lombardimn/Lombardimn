@@ -1,5 +1,5 @@
 
-# ![waving](https://capsule-render.vercel.app/api?type=waving&height=230&text=Hi!%20I'm%20Matias%20Lombardi&fontAlign=50&fontAlignY=30&color=32:F2CDA0,100:6AD9B9&fontColor=041422&desc=Product%20Owner%20%26%20%Full%20Stack%20Web%20Developer&descSize=25&descAlignY=51&descAlign=50&animation=fadeIn)
+# ![waving](https://capsule-render.vercel.app/api?type=waving&height=230&color=32:F2CDA0,100:6AD9B9&text=Hi!%20I'm%20Matias%20Lombardi&textBg=false&fontColor=041422&desc=Product%20Owner%20|%20Full%20Stack%20Web%20Developer&descAlign=50&descSize=25&descAlignY=51&fontAlignY=30&animation=fadeIn)
 
 [![Visits Badge](https://badges.pufler.dev/visits/lombardimn/lombardimn?color=black&logo=github)](https://badges.pufler.dev)
 
@@ -9,7 +9,7 @@ I'm a web developer with over *7 years* of experience building and leading tech 
 
 These days, I'm focused on `'Frontend development'` using tools like `'React'` and `'Astro'`, but I also have solid experience with `'Java'` and `'Angular'` — great for `'large-scale, complex projects'`.
 
-> .[!TIP]
+> 💡 **Tip:**  
 > If you are interested in knowing more about me you are in the right place.
 
 <p>
@@ -33,6 +33,7 @@ These days, I'm focused on `'Frontend development'` using tools like `'React'` a
 <h2>Frontend</h3>
 
 **Libraries & Frameworks**
+<br>
 <br>
 <img src="https://svgl.app/library/react_dark.svg" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;
 <img src="https://svgl.app/library/angular.svg" width="40" height="40" alt="Angular" title="Angular" />&nbsp;&nbsp;
@@ -60,13 +61,15 @@ These days, I'm focused on `'Frontend development'` using tools like `'React'` a
 
 **Languages & Runtimes**
 <br>
+<br>
 <img src="https://svgl.app/library/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
 <img src="https://svgl.app/library/java.svg" width="40" height="40" alt="Java" title="Java" />&nbsp;&nbsp;
 <img src="https://svgl.app/library/php_dark.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;&nbsp;
 <img src="https://svgl.app/library/python.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
 
 **Frameworks**
-<br> 
+<br>
+<br>
 <img src="https://svgl.app/library/expressjs_dark.svg" width="40" height="40" alt="ExpressJS" title="ExpressJS" />&nbsp;&nbsp;
 <img src="https://svgl.app/library/nestjs.svg" width="40" height="40" alt="NestJS" title="NestJS" />&nbsp;&nbsp;
 <img src="https://svgl.app/library/spring.svg" width="40" height="40" alt="Spring" title="Spring" />&nbsp;&nbsp;
